@@ -14,7 +14,7 @@
         "keyboard-configuration/xkb-keymap=us <wait>",
         "netcfg/choose_interface=eth0 <wait>",
         "netcfg/get_hostname={{ user `hostname` }} <wait>",
-        "netcfg/get_domain=vmware.lab <wait>",
+        "netcfg/get_domain=local.devilcorp.co.uk <wait>",
         "fb=false <wait>",
         "debconf/frontend=noninteractive <wait>",
         "console-setup/ask_detect=false <wait>",
